@@ -1,0 +1,8 @@
+target/
+*.class
+*/.settings
+*.jar
+*.war
+*.ear
+*.bad
+**/*.ba
